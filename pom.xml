@@ -6,7 +6,7 @@
     <!---DremoteRepositories=github-mystarter1::::https://maven.pkg.github.com/lidw950401/mystarter-->    
     <groupId>org.lidw</groupId>
     <artifactId>mystarter</artifactId>
-    <version>0.2-SNAPSHOT</version>
+    <version>0.3-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>mystarter</name>
